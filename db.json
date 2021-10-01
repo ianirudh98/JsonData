@@ -1,6 +1,6 @@
-
-     [
-      "employee":  {
+{
+    "employee": [
+        {
             "Id": 1,
             "firstName": "Anirudh",
             "lastName": "Prasad",
@@ -32,3 +32,4 @@
             "salary": 10000
         }
     ]
+}
